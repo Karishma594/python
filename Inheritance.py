@@ -71,4 +71,6 @@ class B:
         cls().m1()
     print("Class method")
 
+    
+
 
